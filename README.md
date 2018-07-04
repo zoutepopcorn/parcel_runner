@@ -3,7 +3,7 @@
 Simple parcel runner test
 
 
-```
+```javascript
 
 import express from 'express';
 const app = express()
