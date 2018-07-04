@@ -40,7 +40,11 @@ const runDev = (json) => {
 }
 
 runDev(PARCEL[0])
-
-
-
 ```
+# install & run
+
+``` npm i ```
+
+``` npm run runner ```
+
+
